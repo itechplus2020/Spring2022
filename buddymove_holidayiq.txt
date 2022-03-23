@@ -1,0 +1,57 @@
+BuddyMove Data Set Data Set
+
+Data Set Description
+
+Abstract: User interest information extracted from user reviews published in holidayiq.com about various types of point of interests in South India
+
+Data Set Characteristics:  
+
+Multivariate, Text
+
+Number of Instances: 249
+
+Area:N/A
+
+Attribute Characteristics:Real
+
+Number of Attributes:7
+
+Date Donated 2018-07-01
+
+Associated Tasks: Classification, Clustering
+
+Missing Values? N/A
+
+
+
+Source:
+
+Shini Renjith, shinirenjith '@' gmail.com
+
+
+Data Set Information:
+
+This dataset was populated from destination reviews published by 249 reviewers of holidayiq.com till October 2014. Reviews falling in 6 categories among destinations across South India were considered and the count of reviews in each category for every reviewer (traveler) is captured.
+
+
+Attribute Information:
+
+Attribute 1 : Unique user id
+Attribute 2 : Number of reviews on stadiums, sports complex, etc.
+Attribute 3 : Number of reviews on religious institutions
+Attribute 4 : Number of reviews on beach, lake, river, etc.
+Attribute 5 : Number of reviews on theatres, exhibitions, etc.
+Attribute 6 : Number of reviews on malls, shopping places, etc.
+Attribute 7 : Number of reviews on parks, picnic spots, etc.
+
+
+Relevant Papers:
+
+S. Renjith and C. Anjali, 'A personalized mobile travel recommender system using hybrid algorithm,' 2014 First International Conference on Computational Systems and Communications (ICCSC), Trivandrum, 2014, pp. 12-17. doi: 10.1109/COMPSC.2014.7032612
+
+
+
+Citation Request:
+
+Please cite the below paper while using this dataset
+S. Renjith and C. Anjali, 'A personalized mobile travel recommender system using hybrid algorithm,' 2014 First International Conference on Computational Systems and Communications (ICCSC), Trivandrum, 2014, pp. 12-17. doi: 10.1109/COMPSC.2014.7032612
